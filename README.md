@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I am currently in my final year of a Master's degree in Computer Science at Warsaw University of Technology. My academic interests include nature-inspired algorithms, neural networks, cryptography, and more. I have primarily used Python and C++ for my academic assignments and various outside projects. Additionally, I have some experience with Julia, C#, and JavaScript.
+You can contact me here or using my university mail: jan.kruszynski.stud@pw.edu.pl
